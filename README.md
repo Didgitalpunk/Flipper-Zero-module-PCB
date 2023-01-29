@@ -1,2 +1,3 @@
 # Flipper-Zero-module-PCB
-Flipper Zero module PCB starters
+Flipper Zero module PCB starters made with KiCad
+
